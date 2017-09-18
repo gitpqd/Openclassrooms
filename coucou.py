@@ -1,2 +1,4 @@
-# Bonjour! ce fichier est vide pour le moment
-# Il s'agira d'un script en python qui dit bonjour :)
+#Ce script dit bonjour.
+#usage : python3 coucou.py
+
+print("Bonjour!")

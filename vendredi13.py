@@ -2,7 +2,8 @@
 Affiche la liste des vendredis 13 présents dans une année
 paramètres demandés : jour de la semaine au 1er janvier et année bissextile ou non.
 Python 3.x uniquement.
-
+Il s'agit d'un programme que j'ai rédigé il y a un an mais après tout il peut tout à faire servir dans le cadre de cet exercice :)
+A bientot!
 Pol
 '''
 

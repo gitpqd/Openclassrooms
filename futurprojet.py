@@ -1,4 +1,3 @@
-#Bonjour! 
-#Ce fichier se construira progressivement, sûrement en 4 commit cela dit :)
-#Il contiendra un script en python permettant de connaître tous les vendredis 13 d'une année donnée.
-#bientôt, bientôt :)
+#Documente le projet
+#Usage : python3 futurprojet.py"
+print("Nouveau fichier ajouté le 18 septembre 2017 : vendredi13.py")
